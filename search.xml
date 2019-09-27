@@ -4,11 +4,6 @@
     <title><![CDATA[站点文章测试]]></title>
     <url>%2F2019%2F09%2F27%2Fsite-test%2F</url>
     <content type="text"><![CDATA[测试用文章小标题1文章内容 小标题2]]></content>
-      <categories>
-        <category>测试分类1</category>
-        <category>测试分类2</category>
-        <category>测试分类3</category>
-      </categories>
       <tags>
         <tag>测试标签1</tag>
         <tag>测试标签2</tag>
